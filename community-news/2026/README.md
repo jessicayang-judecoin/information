@@ -1,10 +1,10 @@
 # Community News 2026
 
-This folder contains Judecoin news, official notices, Lab updates, and technical announcements published in 2026, organized by publication date.
+This folder contains Judecoin news, community notices, Lab updates, and technical dynamic published in 2026, organized by publication date.
 
 ## Category Legend
 
-- **News**: On-chain version upgrade announcements, on-chain application ecosystem announcements, and general official updates.
+- **News**: On-chain version upgrade dynamic, on-chain application ecosystem dynamic, and general community updates.
 - **Notice**: Technical code updates, upgrade details, wallet or node-related notices, and information requiring user attention.
 
 ## January 2026
@@ -32,3 +32,18 @@ This folder contains Judecoin news, official notices, Lab updates, and technical
 
 - **2026-05-11** · News · [Judecoin Lab update #20260511](./Judecoin%20Lab%20update-20260511.md)
 - **2026-05-16** · News · [Judecoin Lab update #20260516](./Judecoin%20Lab%20update-20260516.md)
+
+## June 2026
+
+- **2026-06-04** · News · [Judecoin Lab update #20260604](./Judecoin%20Lab%20update-20260604.md)
+- **2026-06-13** · News · [Judecoin Lab update #20260613](./Judecoin%20Lab%20update-20260613.md)
+- **2026-06-17** · News · [Judecoin Lab update #20260617](./Judecoin%20Lab%20update-20260617.md)
+
+## July 2026
+
+- **2026-07-01** · News · [Judecoin Lab update #20260701](./Judecoin%20Lab%20update-20260701.md)
+- **2026-07-20** · News · [Judecoin Lab update #20260720](./Judecoin%20Lab%20update-20260720.md)
+
+## August 2026
+
+- **2026-08-13** · News · [Judecoin Lab update #20260813](./Judecoin%20Lab%20update-20260813.md)
